@@ -11,6 +11,7 @@
 
     <modules>
         <module>spring-web-sample-data-jpa</module>
+        <module>spring-web-sample-mybatis</module>
     </modules>
 
     <repositories>
